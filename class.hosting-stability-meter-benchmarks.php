@@ -7,7 +7,7 @@
  * @author        HostingStabilityMeter team (welcome@hostingstabilitymeter.com)
  * @copyright (C) 2020 HostingStabilityMeter team (https://hostingstabilitymeter.com)
  * @license       GPLv2 or later: http://www.gnu.org/licenses/gpl-2.0.html
- * @see           https://github.com/
+ * @see           https://github.com/hostingstabilitymeter/php-benchmarks-library
  */
 
 class HostingStabilityMeterBenchmarks {
